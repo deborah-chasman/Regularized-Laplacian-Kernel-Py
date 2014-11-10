@@ -1,0 +1,10 @@
+# two stars of different degree. 
+# use star_scores to see the effect: 
+# a's neighbors receive lower scores than g's, because a has a higher degree.
+a u b
+a u c 
+a u d
+a u e
+a u f
+g u h
+g u i
