@@ -1,0 +1,5 @@
+# small chain graph
+a u b
+b u c 
+c u d
+d u e
