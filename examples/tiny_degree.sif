@@ -1,0 +1,19 @@
+# graph for testing out effect node degree
+a u b
+a u c 
+a u d
+a u e
+a u f
+a u g
+a u j
+a u k
+a u l
+c u c1
+c u c2
+c u c3
+c u c4
+h u d
+h u e
+h u f
+h u g
+i u b
